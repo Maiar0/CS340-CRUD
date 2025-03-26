@@ -1,2 +1,2 @@
 # CS340-CRUD
-Create simple crud instructions for MongoDB
+Create CRUD instructions and Dashboard for MongoDB Data
